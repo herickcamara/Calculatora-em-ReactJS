@@ -1,0 +1,14 @@
+.display{
+    grid-column: span 4;
+    background:linear-gradient(to bottom, #0001, #0009);
+
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 15px;
+
+
+    font-size: 1.7rem;
+    font-weight: bold;
+    overflow: hidden;
+}
