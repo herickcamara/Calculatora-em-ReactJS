@@ -5,7 +5,7 @@
 
 <h2 align='center' >Esta aplicação em React.JS é uma Calculadora simples, usando JavaScript<h2>
 
-Aplicação separada por pastas na <b>"src"</b>
+ Aplicação separada por pastas na <b>"src"</b>
 temos um aquivo <b>"index.js"</b> a onde é 
 responsável por rendenizar o arquivo HTML, que 
 esta dentro da pasta <b>"public"</b>. E ainda 
